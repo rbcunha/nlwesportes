@@ -11,6 +11,7 @@ Projeto construído no evento Nest Level Week da Rocketseat.
 -  HTML
 -  CSS
 -  Git e GitHub
+-  Figma
 
 ## Contato
 
